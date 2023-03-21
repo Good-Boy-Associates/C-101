@@ -10,8 +10,6 @@
 
 <h2 align="center">List of Programs</h2>
 
-## Here is a list of the programs included in this repository:
-
 - Hello World: A simple program that prints the message "Hello World" to the console.
 - Addition: A program that asks the user to input two numbers, and then calculates and displays their sum.
 - Subtraction: A program that asks the user to input two numbers, and then calculates and displays their difference.
