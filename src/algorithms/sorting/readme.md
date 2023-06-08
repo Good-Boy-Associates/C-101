@@ -35,6 +35,11 @@ Quick sort is a highly efficient sorting algorithm that uses a divide-and-conque
 
 Quick sort has an average time complexity of O(n log n) but can degrade to O(n^2) in the worst case. It is widely used in practice due to its efficiency and in-place sorting capability.
 
+## Counting Sort
+Counting sort is a non-comparison based sorting algorithm that works well when the range of input values is known and relatively small. It counts the number of occurrences of each element and uses this information to determine the correct position of each element in the sorted output.
+
+Counting sort has a time complexity of O(n + k), where n is the number of elements in the input array and k is the range of input values. It is efficient for arrays with a small range of input values.
+
 ## Files
 
 This repository contains the following files:
