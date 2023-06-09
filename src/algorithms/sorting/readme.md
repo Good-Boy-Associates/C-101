@@ -40,6 +40,11 @@ Counting sort is a non-comparison based sorting algorithm that works well when t
 
 Counting sort has a time complexity of O(n + k), where n is the number of elements in the input array and k is the range of input values. It is efficient for arrays with a small range of input values.
 
+## Bogo Sort
+Bogo sort, also known as permutation sort or slow sort, is a highly inefficient and unpredictable sorting algorithm. It repeatedly shuffles the elements of the array randomly and checks if the array is sorted. If not, it repeats the process until the array becomes sorted.
+
+The average and worst-case time complexity of Bogo sort is O((n+1)!), where n is the number of elements in the array. This makes it extremely inefficient for all but the smallest arrays. Bogo sort is mainly used for educational purposes and should not be used for practical sorting.
+
 ## Files
 
 This repository contains the following files:
@@ -48,6 +53,8 @@ This repository contains the following files:
 - `heap_sort.c`: Contains the implementation of the heap sort algorithm.
 - `merge_sort.c`: Contains the implementation of the merge sort algorithm.
 - `quick_sort.c`: Contains the implementation of the quick sort algorithm.
+- `counting_sort.c`: Contains the implementation of the counting sort algorithm.
+- `bogo_sort.c`: Contains the implementation of the bogo sort algorithm.
 
 ## Usage
 
