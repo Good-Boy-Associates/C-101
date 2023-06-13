@@ -25,6 +25,10 @@ This repository contains basic C programs that cover a range of topics, includin
 - `quadratic.c`: Solves a quadratic equation.
 - `swap.c`: Swaps the values of two variables.
 
+## Strings
+- `occurrences.c`: Program to Count the Occurrences of a Character in a String
+- `str_len.c`: Program to Calculate String Length
+
 ## Other Topics
 
 - `hello_world.c`: Prints "Hello, World!" to the console.
