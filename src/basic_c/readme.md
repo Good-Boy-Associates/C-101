@@ -14,7 +14,9 @@ This repository contains basic C programs that cover a range of topics, includin
 - `armstrong.c`: Checks if a number is an Armstrong number.
 - `factorial.c`: Calculates the factorial of a number.
 - `fib.c`: Generates the Fibonacci series.
+- `fid_rec.c`: Generates the Fibonacci series using recursion
 - `factors.c`: Finds the factors of a number.
+- `largest.c`: Finds the largest and second largest number
 - `largest_of_three.c`: Finds the largest of three numbers.
 - `multiplication_table.c`: Generates the multiplication table of a number.
 - `odd_or_even.c`: Checks if a number is odd or even.
