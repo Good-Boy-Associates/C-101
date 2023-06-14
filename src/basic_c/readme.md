@@ -23,6 +23,7 @@ This repository contains basic C programs that cover a range of topics, includin
 - `power.c`: Calculates the power of a number.
 - `prime.c`: Checks if a number is prime.
 - `quadratic.c`: Solves a quadratic equation.
+- `strong.c`: Checks whether a given number is a strong number or not
 - `swap.c`: Swaps the values of two variables.
 
 ## Strings
