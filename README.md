@@ -52,4 +52,3 @@ This project is licensed under the MIT License. Use, modify, and share the code 
 Start your exciting journey into the world of C programming with these captivating programs and algorithms!
 
 <h4 align="center">Happy coding!<h4>
-<hr>
